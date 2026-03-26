@@ -8,7 +8,7 @@ If you are aiming for a specific goal—like a 1 hour 30-minute Hyrox finish—A
 
 ---
 
-## 🏆 Hackathon Tracks Achieved
+## 🏆 Tracks 
 
 This project was built to address all three core tracks of the Gen AI Academy:
 
