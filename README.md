@@ -2,8 +2,6 @@
 
 **A Context-Aware Hybrid Training Agent built for the Gen AI Academy (APAC Edition).**
 
-**🔴 Live Demo:** [ApexTracker AI on Google Cloud Run](https://apextracker-1040501010782.us-central1.run.app/)
-
 ApexTracker AI is an elite, intelligent sports science coach designed for athletes tackling complex, multi-disciplinary events. By combining real-time environmental data with a vector-searchable sports science database, it dynamically adjusts daily training loads, recovery protocols, and pacing strategies. 
 
 ---
