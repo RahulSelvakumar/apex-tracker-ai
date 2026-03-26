@@ -54,7 +54,7 @@ To see the full power of the agent, try copying and pasting these scenarios into
 ## ⚙️ Tech Stack
 
 * **Frontend:** Streamlit (Python)
-* **AI Model:** Google Gemini 1.5 Flash (`google-generativeai`)
+* **AI Model:** Google Gemini 2.5 Flash (`google-generativeai`)
 * **Database:** Google Cloud AlloyDB (`psycopg2-binary`, `pgvector`)
 * **External APIs:** WeatherAPI 
 * **Deployment:** Docker, Google Cloud Run
